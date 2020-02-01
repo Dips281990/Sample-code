@@ -1,3 +1,5 @@
+/*********ADC Sample program*************/
+
 #include<p18f4520.h>
 
 
