@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+a	G:\dips tech\WORK\CODES\ADC\adc.c	13;"	v	line:13
+b	G:\dips tech\WORK\CODES\ADC\adc.c	13;"	v	line:13
+c	G:\dips tech\WORK\CODES\ADC\adc.c	14;"	v	line:14
+data	G:\dips tech\WORK\CODES\ADC\adc.c	16;"	v	line:16
+data1::LATD	G:\dips tech\WORK\CODES\ADC\adc.c	4;"	d	line:4	file:
+delay	G:\dips tech\WORK\CODES\ADC\adc.c	112;"	f	line:112
+delay	G:\dips tech\WORK\CODES\ADC\adc.c	12;"	p	line:12	file:
+en::LATBbits.LATB2	G:\dips tech\WORK\CODES\ADC\adc.c	7;"	d	line:7	file:
+i	G:\dips tech\WORK\CODES\ADC\adc.c	114;"	l	line:114
+input::PORTAbits.RA0	G:\dips tech\WORK\CODES\ADC\adc.c	8;"	d	line:8	file:
+j	G:\dips tech\WORK\CODES\ADC\adc.c	114;"	l	line:114
+j	G:\dips tech\WORK\CODES\ADC\adc.c	13;"	v	line:13
+lcdcmd	G:\dips tech\WORK\CODES\ADC\adc.c	11;"	p	line:11	file:	signature:(unsigned int)
+lcdcmd	G:\dips tech\WORK\CODES\ADC\adc.c	89;"	f	line:89	signature:(unsigned int value)
+lcddata	G:\dips tech\WORK\CODES\ADC\adc.c	101;"	f	line:101	signature:(unsigned int value)
+lcddata	G:\dips tech\WORK\CODES\ADC\adc.c	10;"	p	line:10	file:	signature:(unsigned int)
+main	G:\dips tech\WORK\CODES\ADC\adc.c	17;"	f	line:17
+name	G:\dips tech\WORK\CODES\ADC\adc.c	19;"	l	line:19
+rs::LATBbits.LATB0	G:\dips tech\WORK\CODES\ADC\adc.c	5;"	d	line:5	file:
+rw::LATBbits.LATB1	G:\dips tech\WORK\CODES\ADC\adc.c	6;"	d	line:6	file:
+temp	G:\dips tech\WORK\CODES\ADC\adc.c	14;"	v	line:14
+temperature	G:\dips tech\WORK\CODES\ADC\adc.c	15;"	v	line:15
