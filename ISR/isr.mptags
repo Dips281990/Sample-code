@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+a	G:\dips tech\WORK\CODES\ISR\isr.c	68;"	l	line:68
+b	G:\dips tech\WORK\CODES\ISR\isr.c	68;"	l	line:68
+delay	G:\dips tech\WORK\CODES\ISR\isr.c	66;"	f	line:66
+delay	G:\dips tech\WORK\CODES\ISR\isr.c	8;"	p	line:8	file:
+i	G:\dips tech\WORK\CODES\ISR\isr.c	18;"	l	line:18
+isr	G:\dips tech\WORK\CODES\ISR\isr.c	14;"	f	line:14	signature:(void)
+isr	G:\dips tech\WORK\CODES\ISR\isr.c	7;"	p	line:7	file:	signature:(void)
+led::PORTDbits.RD2	G:\dips tech\WORK\CODES\ISR\isr.c	3;"	d	line:3	file:
+led_flag	G:\dips tech\WORK\CODES\ISR\isr.c	6;"	v	line:6
+main	G:\dips tech\WORK\CODES\ISR\isr.c	47;"	f	line:47
+sw::PORTCbits.RC0	G:\dips tech\WORK\CODES\ISR\isr.c	5;"	d	line:5	file:
