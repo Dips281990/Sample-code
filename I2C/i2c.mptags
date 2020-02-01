@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+I2C_SPEED::100	G:\dips tech\WORK\CODES\I2C\Untitled.c	8;"	d	line:8	file:
+MCP7940_read	G:\dips tech\WORK\CODES\I2C\Untitled.c	111;"	f	line:111	signature:(unsigned char daddress)
+MCP7940_write	G:\dips tech\WORK\CODES\I2C\Untitled.c	101;"	f	line:101	signature:(unsigned char address,unsigned char value)
+SCL::PORTCbits.RC3	G:\dips tech\WORK\CODES\I2C\Untitled.c	3;"	d	line:3	file:
+SCL_dir::TRISCbits.TRISC3	G:\dips tech\WORK\CODES\I2C\Untitled.c	6;"	d	line:6	file:
+SDA::PORTCbits.RC4	G:\dips tech\WORK\CODES\I2C\Untitled.c	4;"	d	line:4	file:
+SDA_dir::TRISCbits.TRISC4	G:\dips tech\WORK\CODES\I2C\Untitled.c	5;"	d	line:5	file:
+_XTAL_FREQ::16000000	G:\dips tech\WORK\CODES\I2C\Untitled.c	7;"	d	line:7	file:
+i2c_read	G:\dips tech\WORK\CODES\I2C\Untitled.c	19;"	p	line:19	file:
+i2c_read	G:\dips tech\WORK\CODES\I2C\Untitled.c	90;"	f	line:90
+i2c_restart	G:\dips tech\WORK\CODES\I2C\Untitled.c	14;"	p	line:14	file:	signature:(void)
+i2c_restart	G:\dips tech\WORK\CODES\I2C\Untitled.c	41;"	f	line:41	signature:(void)
+i2c_sendack	G:\dips tech\WORK\CODES\I2C\Untitled.c	16;"	p	line:16	file:	signature:(void)
+i2c_sendack	G:\dips tech\WORK\CODES\I2C\Untitled.c	60;"	f	line:60	signature:(void)
+i2c_sendnack	G:\dips tech\WORK\CODES\I2C\Untitled.c	17;"	p	line:17	file:	signature:(void)
+i2c_sendnack	G:\dips tech\WORK\CODES\I2C\Untitled.c	70;"	f	line:70	signature:(void)
+i2c_start	G:\dips tech\WORK\CODES\I2C\Untitled.c	13;"	p	line:13	file:	signature:(void)
+i2c_start	G:\dips tech\WORK\CODES\I2C\Untitled.c	32;"	f	line:32	signature:(void)
+i2c_stop	G:\dips tech\WORK\CODES\I2C\Untitled.c	15;"	p	line:15	file:	signature:(void)
+i2c_stop	G:\dips tech\WORK\CODES\I2C\Untitled.c	50;"	f	line:50	signature:(void)
+i2c_write	G:\dips tech\WORK\CODES\I2C\Untitled.c	18;"	p	line:18	file:	signature:(unsigned char data)
+i2c_write	G:\dips tech\WORK\CODES\I2C\Untitled.c	80;"	f	line:80	signature:(unsigned char data)
+i2cinit	G:\dips tech\WORK\CODES\I2C\Untitled.c	12;"	p	line:12	file:	signature:(void)
+i2cinit	G:\dips tech\WORK\CODES\I2C\Untitled.c	21;"	f	line:21
+main	G:\dips tech\WORK\CODES\I2C\Untitled.c	125;"	f	line:125
+readdata	G:\dips tech\WORK\CODES\I2C\Untitled.c	10;"	v	line:10
+readdata	G:\dips tech\WORK\CODES\I2C\Untitled.c	127;"	l	line:127
+sex	G:\dips tech\WORK\CODES\I2C\Untitled.c	10;"	v	line:10
+uart_init	G:\dips tech\WORK\CODES\I2C\Untitled.c	20;"	p	line:20	file:
+uartdata	G:\dips tech\WORK\CODES\I2C\Untitled.c	10;"	v	line:10
